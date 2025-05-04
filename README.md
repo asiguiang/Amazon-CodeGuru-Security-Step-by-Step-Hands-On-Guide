@@ -1,4 +1,5 @@
 # Amazon-CodeGuru-Security-Step-by-Step-Hands-On-Guide
+![image](https://github.com/user-attachments/assets/ed4c86d5-451c-40a5-8eca-0476721ddffb)
 Amazon CodeGuru Security is a static application security testing (SAST) tool that combines machine learning (ML) and automated reasoning to identify vulnerabilities in your code, provide recommendations on how to fix the identified vulnerabilities, and track the status of the vulnerabilities until closure. 
 
 
