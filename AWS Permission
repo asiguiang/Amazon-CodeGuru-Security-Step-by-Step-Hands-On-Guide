@@ -1,0 +1,20 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "codeguru-security:*",
+                "s3:CreateBucket",
+                "s3:PutObject",
+                "s3:GetObject",
+                "s3:ListBucket",
+                "codecommit:GetRepository",
+                "codecommit:GetBranch",
+                "codecommit:GetCommit",
+                "codecommit:ListRepositories"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
